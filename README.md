@@ -1,4 +1,4 @@
-# Blood-Bugs-2025
+# Blood & Bugs-2025
 ### CME on Haematology and Microbiology
 **Introduction**
 Welcome to Blood & Bugs 2025 – “Synergizing Haematology and Microbiology for Better Patient Outcomes”, a pioneering convergence of disciplines aimed at tackling two of the most common and interlinked clinical challenges: haematological disorders and infections. In today’s rapidly evolving healthcare landscape, bridging the gap between diagnosis and effective treatment is essential for holistic patient care.
