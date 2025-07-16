@@ -30,7 +30,7 @@ Let us unite scientific innovation with traditional wisdom to reimagine how we d
 📂  **[2. ABC of Anaemia](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/2.%20ABC%20of%20Anaemia.pdf)**
 
 
-📂  **[3. Ayurvedic Insight Classical Viewpoint on Pandu Roga](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/2.%20Ayurvedic%20Insight%20Classical%20Viewpoint%20on%20Pandu%20Roga.pdf)**
+📂  **[3. Ayurvedic Insight Classical Viewpoint on Pandu Roga](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/3.%20Ayurvedic%20Insight%20Classical%20Viewpoint%20on%20Pandu%20Roga.pdf)**
 
 
 
