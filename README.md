@@ -24,4 +24,20 @@ Through this multidisciplinary lens, the conference aims to promote comprehensiv
 
 Let us unite scientific innovation with traditional wisdom to reimagine how we diagnose, treat, and prevent blood and infectious diseases — ultimately improving patient outcomes and public health.
 
-📂  **[1.Urinary Tract Infection (UTI) in Children](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/1.%20Urinary%20Tract%20Infection.pdf)**
+📂  **[1. Investigations in Patient of Fever](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/1.%20Investigations%20in%20Patient%20of%20Fever.pdf)**
+
+
+📂  **[2. ABC of Anaemia](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/2.%20ABC%20of%20Anaemia.pdf)**
+
+
+📂  **[3. Ayurvedic Insight Classical Viewpoint on Pandu Roga](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/2.%20Ayurvedic%20Insight%20Classical%20Viewpoint%20on%20Pandu%20Roga.pdf)**
+
+
+
+
+Wish you a happy learning!
+
+
+
+
+
