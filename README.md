@@ -5,11 +5,11 @@ Welcome to Blood & Bugs 2025 – “Synergizing Haematology and Microbiology for
 
 This conference brings into sharp focus the ‘ABC’ of modern clinical practice:
 
-A – Anaemia: Understanding the root causes, from nutritional deficiencies to chronic infections, and refining diagnosis with evidence-based protocols.
+Anaemia: Understanding the root causes, from nutritional deficiencies to chronic infections, and refining diagnosis with evidence-based protocols.
 
-B – Infection Control & Antibiotic Stewardship: Strengthening infection prevention strategies while combating antimicrobial resistance through responsible antibiotic use.
+Infection Control & Antibiotic Stewardship: Strengthening infection prevention strategies while combating antimicrobial resistance through responsible antibiotic use.
 
-C – Culture & Sensitivity in OPD Practice: Reinforcing the pivotal role of microbiological testing in guiding precise therapy and reducing empirical misuse of antibiotics.
+Culture & Sensitivity in OPD Practice: Reinforcing the pivotal role of microbiological testing in guiding precise therapy and reducing empirical misuse of antibiotics.
 
 In addition, the spotlight will also be on rational investigations in febrile patients, enabling early differentiation between bacterial, viral, parasitic, and inflammatory causes — a cornerstone of accurate and timely treatment.
 
