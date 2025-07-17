@@ -33,9 +33,15 @@ Let us unite scientific innovation with traditional wisdom to reimagine how we d
 📂  **[3. Ayurvedic Insight Classical Viewpoint on Pandu Roga](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/3.%20Ayurvedic%20Insight%20Classical%20Viewpoint%20on%20Pandu%20Roga.pdf)**
 
 
+📂  **[4. Ayurvedic Perspective on Fever](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/4.%20Ayurvedic%20Perspective%20on%20Fever.pdf)**
 
 
-Wish you a happy learning!
+📂  **[5. Rational Infection Control and Antibiotic Use in OPD](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/5.%20Rational%20Infection%20Control%20and%20Antibiotic%20Use%20in%20OPD.pdf)**
+
+
+
+
+**Wish you a happy learning!**
 
 
 
