@@ -39,6 +39,12 @@ Let us unite scientific innovation with traditional wisdom to reimagine how we d
 📂  **[5. Rational Infection Control and Antibiotic Use in OPD](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/5.%20Rational%20Infection%20Control%20and%20Antibiotic%20Use%20in%20OPD.pdf)**
 
 
+📂  **[6. Understanding Anaemia and the Role of Homeopathy in Its Management](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/6.%20Understanding%20Anaemia%20and%20the%20Role%20of%20Homeopathy%20in%20Its%20Management.pdf)**
+
+
+📂  **[7.The Role of Homeopathy in Infection Control](https://github.com/knkworkingcommittee/Blood-Bugs-2025/blob/main/7.%20The%20Role%20of%20Homeopathy%20in%20Infection%20Control.pdf)**
+
+
 
 
 **Wish you a happy learning!**
